@@ -1,5 +1,3 @@
-# Stanford Irish Association
-
 Providing a link between Ireland and Stanford - on campus and further afield.  Say hi if you’re in the Bay!
 
 
