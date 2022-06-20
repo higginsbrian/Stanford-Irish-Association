@@ -1,0 +1,17 @@
+  
+# Site settings
+title: Stanford Irish Association
+#author:
+#  name: Brian Higgins
+#  email: higginsb@stanford.edu
+#description: "Hello world."
+
+# Build settings
+remote_theme: jekyll/minima
+# Non remote themes
+# theme:
+minima:
+  social_links:
+    twitter: irishstanford
+    github: higginsbrian/Stanford-Irish-Association
+    
