@@ -2,7 +2,7 @@
 #yml frontmatter
 #title: Home
 layout: home
-description: Webstie of the Stanford Irish Association 
+description: Website of the Stanford Irish Association 
 ---
 
 Providing a link between Ireland and Stanford - on campus and further afield.  Say hi if you’re in the Bay!
@@ -17,4 +17,4 @@ You can join our mailing list [here](https://mailman.stanford.edu/mailman/listin
 ## Committee 2022-23
 - **President:** Brian Higgins (PhD Economics)
 - **Treasurer:** Conor Slattery (Undergraduate)
-- **Secretary** Kim Connor (PhD Archeology)
+- **Secretary** Kim Connor (PhD Anthropology)
