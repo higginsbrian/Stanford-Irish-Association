@@ -17,3 +17,4 @@ You can join our mailing list [here](https://mailman.stanford.edu/mailman/listin
 ## Committee 2022-23
 - **President:** Rachael Healy (PhD Anthropology)
 - **Secretary** Kim Connor (PhD Anthropology)
+
