@@ -13,7 +13,6 @@ remote_theme: jekyll/minima
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/higginsbrian/Stanford-Irish-Association" }
     - { platform: twitter, user_url: "https://twitter.com/irishstanford" }
     
 
