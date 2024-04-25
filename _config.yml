@@ -10,8 +10,10 @@ title: Stanford Irish Association
 remote_theme: jekyll/minima
 # Non remote themes
 # theme:
+
 minima:
   social_links:
-    twitter: irishstanford
-    github: higginsbrian/Stanford-Irish-Association
+    - { platform: github,  user_url: "https://github.com/higginsbrian/Stanford-Irish-Association" }
+    - { platform: twitter, user_url: "https://twitter.com/irishstanford" }
     
+
